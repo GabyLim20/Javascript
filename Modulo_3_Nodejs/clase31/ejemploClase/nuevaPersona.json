@@ -1,0 +1,14 @@
+{
+  "nombre": "Gaby",
+  "edad": 25,
+  "esEstudiante": true,
+  "hobbies": [
+    "correr",
+    "dibujar",
+    "viajar"
+  ],
+  "direccion": {
+    "ciudad": "Guadalajara",
+    "pais": "Mexico"
+  }
+}
